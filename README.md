@@ -1,6 +1,6 @@
 # TechWhiz - Technical Society of PGDAV College
 
-![TechWhiz Logo](https://pgdavhyperion.in/logos/techWhizpng.png)
+<img src="https://pgdavhyperion.in/logos/TechwhizLogo.jpeg" alt="TechWhiz Logo" width="100" height="100">
 
 ## About TechWhiz
 
